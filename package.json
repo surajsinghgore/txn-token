@@ -1,0 +1,22 @@
+{
+  "name": "txn-token",
+  "version": "1.0.0",
+  "description": "This package will provide you unique token which can use in various applications like random numbers,transaction token for payments etc.It never generate duplicate number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajsinghgore/txn-token.git"
+  },
+  "keywords": [
+    "txn-token","unique numbers","transaction tokens","random numbers","token"
+  ],
+  "author": "suraj singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajsinghgore/txn-token/issues"
+  },
+  "homepage": "https://github.com/surajsinghgore/txn-token#readme"
+}
